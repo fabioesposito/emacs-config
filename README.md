@@ -7,7 +7,7 @@ Vim-like setup with Evil keybindings throughout.
 Requires Emacs 29+.
 
 ```bash
-git clone https://github.com/fabioesposito/doom-config.git ~/.emacs.d
+git clone https://github.com/fabioesposito/emacs-config.git ~/.emacs.d
 ```
 
 Launch Emacs — packages install automatically on first start via `use-package`.
